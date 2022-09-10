@@ -7,8 +7,6 @@ Game Developer
 I have been coding since 2012 , started developing games with Unity in 2015 , ever since it has been my passion to develop games.
 
 *   🌍  I'm based in İstanbul , Türkiye.
-*   🖥️  See my portfolio at [my website](http://www.guraysenova.com)
-*   ✉️  You can contact me at [contact@guray.dev](mailto:contact@guray.dev)
 *   🧠  I'm learning Rust and Go
 
 <a href="https://www.github.com/guraysenova" target="_blank" rel="noreferrer"><img
