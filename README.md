@@ -28,9 +28,7 @@ I have been coding since 2012 , started developing games with Unity in 2015 , ev
 ### Support Me
 <a href="https://www.buymeacoffee.com/guray"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/guraysenova"><img src="https://github-readme-streak-stats.herokuapp.com/?user=guraysenova&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/guraysenova"><img src="https://github-readme-stats.vercel.app/api?username=guraysenova&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="guraysenova's GitHub stats" /></a>
