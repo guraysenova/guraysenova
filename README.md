@@ -25,3 +25,5 @@ I have been coding since 2012 , started developing games with Unity in 2015 and 
 ### My GitHub Stats
 
 <a href="http://www.github.com/guraysenova"><img src="https://github-readme-streak-stats.herokuapp.com/?user=guraysenova&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+![](https://komarev.com/ghpvc/?username=guraysenova&style=for-the-badge)
